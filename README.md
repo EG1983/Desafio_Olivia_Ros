@@ -151,3 +151,57 @@ style="background-color: #373A3C;"
     </section>
 </body>
 </html>
+
+  <section class="my-4">
+      <div class="container"></div>
+          <div class="row"></div>
+          <div class="texto">
+            <h2 class="diplay-3 text-center">Acerca de mi</h2>
+            <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a mauris id purus blandit dapibus. Nunc at enim et lacus porttitor tincidunt. Donec imperdiet augue nec aliquet sagittis.</p>
+          </div>
+
+    <div class="container text-center">
+      <div class="row">
+        <div class="col col-lg-2">
+          <div class="card-1">
+            <div class="card-body">
+              <div class="d-flex justify-content-center align-items-center" >
+
+                <i class="bi bi-camera2 fs-4" ></i>
+
+              </div>
+                    
+              <h5 class="card-title">Fotografa de comida</h5>
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            </div>
+          </div>
+
+
+          <div class="col-md-4">
+            <div class="card-body ">
+              <div class="d-flex justify-content-center align-items-center" >
+
+                <i class="bi bi-check-circle fs-4"></i>
+
+              </div>
+              <h5 class="card-title">Critica culinaria</h5>
+              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            </div>
+          </div>
+
+
+          <div class="col col-md-4">
+            <div class="card-body">
+              <div class="d-flex justify-content-center align-items-center" >
+                <i class="bi bi-airplane-engines-fill fs-4"></i>
+              </div>
+              
+                <h5 class="card-title">bloggera de viajes</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
